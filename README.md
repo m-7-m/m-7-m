@@ -12,6 +12,6 @@ const ILove = (): string => '⭐ Coding & 📚 Reading';
 
 ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-7-m&theme=radical)](https://github.com/m-7-m/github-readme-stats)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=m-7-m&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-7-m&theme=radical)](https://github.com/m-7-m/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m-7-m&theme=radical)](https://github.com/m-7-m/github-readme-stats)
