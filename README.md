@@ -1,6 +1,6 @@
 # 👨‍💻 Mohamed Ashraf -> m-7-m
 
-Hi, I'm Mohamed Ashraf, a 24-year-old Full Stack Developer with a passion for building clean, efficient, and user-friendly digital solutions. I specialize in creating seamless web and mobile applications that combine strong functionality with modern design. Always curious and eager to learn, I enjoy turning ideas into real products that make a difference.
+Hi, I'm Mohamed Ashraf, Frontend-focused Full Stack Developer with hands-on experience building and deploying real-world web applications and SaaS products. Specialized in React, TypeScript, and modern frontend architecture, with solid backend experience building APIs and working with databases. Strong focus on performance, clean UI/UX, and production-ready code.
 
 ```ts
 const ILove = (): string => '⭐ Coding & 📚 Reading';
@@ -8,7 +8,7 @@ const ILove = (): string => '⭐ Coding & 📚 Reading';
 
 ## ⚡ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,react,next,svelte,express,elysia,mongo,threejs,git,figma,bash,linux,bun,nodejs,vite,flutter,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,react,next,svelte,express,elysia,mongo,threejs,git,figma,bash,linux,bun,nodejs,vite,flutter,tauri,vue,nuxt,pinia,mysql,postgres,supabase)](https://skillicons.dev)
 
 ## 📊 Stats
 
